@@ -434,7 +434,7 @@ input, select, textarea {
 			transform-origin: 50% 50%;
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -500,7 +500,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Source Sans Pro", "sans-serif";
+		font-family: "Source Sans Pro", Helvetica, "sans-serif";
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
@@ -621,6 +621,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		background: #ffffff;
 		color: #39454b;
 		padding: 2em;
@@ -931,7 +932,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-weight: 400;
 		}
 
@@ -948,7 +949,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 		}
 
 /* Image */
@@ -1257,7 +1258,7 @@ input, select, textarea {
 				animation: spinner-rotate 0.75s infinite linear !important;
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: "Source Sans Pro", Helvetica, sans-serif;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
